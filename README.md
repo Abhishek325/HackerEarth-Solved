@@ -1,6 +1,6 @@
 **HackerEarthPracticeProblems - Solved!**
 
-This repository consists of the solutions to various practive problems on [HackerEarth](https://www.hackerearth.com/ "HackerEarth").
+This repository consists of the solutions to various practice problems on [HackerEarth](https://www.hackerearth.com/ "HackerEarth").
 
 #### Information about the code in here: ####
 1. Language : `C#`

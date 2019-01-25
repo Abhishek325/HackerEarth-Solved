@@ -10,7 +10,7 @@ This repository consists of the solutions to various practice problems on [Hacke
 3. You can run a problem by invoking the default constructor for its corresponding class - **For e.g.** To run "Cipher", you need to invoke `new Cipher()`)
 
 #### Note: ####
-1. The solutions uplaoded here are the ones that pass all the test cases of a problem.
+1. The solutions uploaded here are the ones that have passed all the test cases of the problem.
 2. There is always a better way to solve a problem and every solution is just a trade off. Feel free to suggest any edits.
 
 #### Suggestion: ####

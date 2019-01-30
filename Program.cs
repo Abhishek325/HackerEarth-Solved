@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections;
-class MainClass
+using System.Linq;
+using System.Collections.Generic;
+public class MainClass
 {
     static void Main(string[] args)
     {

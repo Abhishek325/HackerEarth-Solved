@@ -1,5 +1,4 @@
 ﻿using System;
-
 class ques6
 {
     public ques6()

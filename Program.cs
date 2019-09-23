@@ -1,11 +1,7 @@
 ﻿using System;
-public class MainClass
+class MainClass
 {
     static void Main()
     {
-        int noOfTestCases = Convert.ToInt16(Console.ReadLine());
-        while(noOfTestCases-- > 0)
-        {
-        }
     }
 }

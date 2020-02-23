@@ -41,7 +41,7 @@ public class Cipher
     {
         string input = Console.ReadLine();
         int key = Convert.ToInt16(Console.ReadLine());
-        string output = String.Empty;
+        string output = string.Empty;
         for (int i = 0; i < input.Length; i++)
         {
             output = output + new Cipher().encryptChar(input[i], key);
